@@ -1,10 +1,10 @@
 [package]
 name = "tomlplusplus"
-version = "3.4.0"
+version = "3.4.1"
 type = "lib"
 
 [language]
-cxx = "c++17"
+cxx = "c++23"
 
 [dependencies]
 upstream = { url = "https://github.com/marzer/tomlplusplus/archive/refs/tags/v3.4.0.tar.gz" }
