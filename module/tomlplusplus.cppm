@@ -59,7 +59,6 @@ export namespace toml {
     using TOML_NAMESPACE::table_iterator;
 
     using TOML_NAMESPACE::at_path;
-    using TOML_NAMESPACE::get_line;
     using TOML_NAMESPACE::operator""_toml;
     using TOML_NAMESPACE::operator""_tpath;
     using TOML_NAMESPACE::operator<<;
